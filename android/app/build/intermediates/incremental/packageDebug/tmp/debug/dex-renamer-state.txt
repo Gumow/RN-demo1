@@ -1,0 +1,4 @@
+#Sat Sep 29 12:33:09 CST 2018
+base.0=/home/gmw/Desktop/app/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
